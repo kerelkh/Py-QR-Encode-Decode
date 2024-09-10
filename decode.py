@@ -5,5 +5,5 @@ image = Image.open('qrcode.png')
 
 result = decode(image)
 
-print(result[0].data)
+print(f"Data in QR Code is: {result[0].data}")
 

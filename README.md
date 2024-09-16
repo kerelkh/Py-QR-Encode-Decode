@@ -11,7 +11,11 @@ Project to create QR Code image and decode the image.
 
 ## How to run ?
 1. > Install dependency
+
+### For encode message
 2. > Open encode.py and write data message
 3. > Run encode.py
+
+### For decode QRCode
 4. > for decode just run decode.py
 
